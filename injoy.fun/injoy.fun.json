@@ -1,1 +1,1 @@
-{"admob":true,"POST":false,"version":"3.0.1","EXPLORE":{"more":false,"ignore":[10007,19002,19003,13036]},"earn":false,"paytm":false,"fban":true}
+{"admob":true,"POST":true,"version":"3.0.1","EXPLORE":{"ignore":[10007,19002,19003,13036],"more":true},"earn":false,"paytm":false,"fban":true}
